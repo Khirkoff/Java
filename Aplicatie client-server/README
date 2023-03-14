@@ -1,0 +1,5 @@
+In aplicatia client se citeste un numar natural N.
+Daca N este 0, clientul se va deconecta.
+Altfel, se citesc de la tastatura N numere intregi, care se vor transmite 
+serverului.
+Serverul calculeaza cate numere patrat perfect sunt.
