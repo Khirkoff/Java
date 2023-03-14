@@ -1,0 +1,3 @@
+Aplicatia client citeste un nume de la tastatura si-l trimite catre server.
+ Daca numele este Serverul raspunde cu:
+SUCCES NUME PRENUME !
