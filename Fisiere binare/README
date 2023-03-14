@@ -1,0 +1,3 @@
+Se citeste un numar natural N. 
+Se citesc N numere intregi de la tastatura. Sa se copieze aceste numere intr-un fisier binar de numere intregi (numere.dat).
+Pentru fisierul binar de numere intregi numere.dat, sa se calculeze media ritmetica a numerelor PARE din fisier (sau, daca nu exista numere pare, sa afisam: nu exista).
